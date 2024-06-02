@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nyo+68SWtDW742VNywHGHXvxmjSMitJZ/vI+fKgGuQg=",
+  "Source": "App_GCM",
+  "BasePath": "_content/App_GCM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
